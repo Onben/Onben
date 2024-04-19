@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <tr>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="www.linkedin.com/in/ons-ben-youssef-660232140">
+            <a href="https://www.linkedin.com/in/ons-ben-youssef-660232140">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
 </p>
